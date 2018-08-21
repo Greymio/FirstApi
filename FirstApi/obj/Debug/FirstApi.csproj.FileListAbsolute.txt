@@ -1,0 +1,130 @@
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\FirstApi.dll.config
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\FirstApi.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\FirstApi.pdb
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\Antlr3.Runtime.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\Newtonsoft.Json.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Net.Http.Formatting.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Helpers.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Http.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Http.WebHost.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Mvc.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Optimization.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Razor.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.WebPages.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\WebGrease.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\Newtonsoft.Json.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Net.Http.Formatting.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Helpers.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Http.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Http.WebHost.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Mvc.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Optimization.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.Razor.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.WebPages.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.xml
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\bin\Antlr3.Runtime.pdb
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\obj\Debug\FirstApi.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\obj\Debug\FirstApi.dll
+c:\users\student\documents\visual studio 2013\Projects\FirstApi\FirstApi\obj\Debug\FirstApi.pdb
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\FirstApi.dll.config
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\FirstApi.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\FirstApi.pdb
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\Antlr3.Runtime.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\Microsoft.Web.Infrastructure.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\Newtonsoft.Json.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Net.Http.Formatting.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Helpers.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Http.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Http.WebHost.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Mvc.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Optimization.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Razor.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.WebPages.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\WebGrease.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\Newtonsoft.Json.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Net.Http.Formatting.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Helpers.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Http.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Http.WebHost.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Mvc.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Optimization.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.Razor.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.WebPages.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.xml
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\bin\Antlr3.Runtime.pdb
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\obj\Debug\FirstApi.csprojResolveAssemblyReference.cache
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\obj\Debug\FirstApi.dll
+F:\Technobel\Dotnet developer\Cours\Dotnet_Dev\_WCF + remédiation-self study 1 jour\WebApi\Exemples\Avec Persitence Json\FirstApi\FirstApi\obj\Debug\FirstApi.pdb
+D:\sandbox\FirstApi\FirstApi\bin\FirstApi.dll.config
+D:\sandbox\FirstApi\FirstApi\bin\FirstApi.dll
+D:\sandbox\FirstApi\FirstApi\bin\FirstApi.pdb
+D:\sandbox\FirstApi\FirstApi\bin\Antlr3.Runtime.dll
+D:\sandbox\FirstApi\FirstApi\bin\Microsoft.Web.Infrastructure.dll
+D:\sandbox\FirstApi\FirstApi\bin\Newtonsoft.Json.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Net.Http.Formatting.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Helpers.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.WebHost.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Mvc.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Optimization.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Razor.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.dll
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.dll
+D:\sandbox\FirstApi\FirstApi\bin\WebGrease.dll
+D:\sandbox\FirstApi\FirstApi\bin\Newtonsoft.Json.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Net.Http.Formatting.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Helpers.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.WebHost.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Mvc.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Optimization.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.Razor.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.xml
+D:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.xml
+D:\sandbox\FirstApi\FirstApi\bin\Antlr3.Runtime.pdb
+D:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.csprojResolveAssemblyReference.cache
+D:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.dll
+D:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.pdb
+C:\sandbox\FirstApi\FirstApi\bin\FirstApi.dll.config
+C:\sandbox\FirstApi\FirstApi\bin\FirstApi.dll
+C:\sandbox\FirstApi\FirstApi\bin\FirstApi.pdb
+C:\sandbox\FirstApi\FirstApi\bin\Antlr3.Runtime.dll
+C:\sandbox\FirstApi\FirstApi\bin\Microsoft.Web.Infrastructure.dll
+C:\sandbox\FirstApi\FirstApi\bin\Newtonsoft.Json.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Net.Http.Formatting.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Helpers.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.WebHost.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Mvc.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Optimization.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Razor.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.dll
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.dll
+C:\sandbox\FirstApi\FirstApi\bin\WebGrease.dll
+C:\sandbox\FirstApi\FirstApi\bin\Newtonsoft.Json.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Net.Http.Formatting.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Helpers.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Http.WebHost.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Mvc.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Optimization.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.Razor.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Deployment.xml
+C:\sandbox\FirstApi\FirstApi\bin\System.Web.WebPages.Razor.xml
+C:\sandbox\FirstApi\FirstApi\bin\Antlr3.Runtime.pdb
+C:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.csprojAssemblyReference.cache
+C:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.csproj.CoreCompileInputs.cache
+C:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.csproj.CopyComplete
+C:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.dll
+C:\sandbox\FirstApi\FirstApi\obj\Debug\FirstApi.pdb
